@@ -2,6 +2,7 @@
 /.drush-backups
 /build
 /data
+/documentation
 /web
 /web-deploy
 .bundle
