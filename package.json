@@ -1,0 +1,24 @@
+{
+  "name": "project_name",
+  "description": "Drupal project development workspace for project_name.",
+  "version": "0.0.0-semantic-release",
+  "private": true,
+  "author": {
+    "name": "Craig Gardener",
+    "email": "craig@craiggardener.me"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-drupal-build": "^1.0.1",
+    "jscs": "^3.0.7"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.5",
+    "cz-conventional-changelog": "^2.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+/.drush
+/.drush-backups
+/build
+/data
+/web
+/web-deploy
+.bundle
+node_modules
+vendor
