@@ -87,7 +87,7 @@ To install dependencies and set up the project for development, run the followin
 rm composer.d*.json Gruntconfig.d*.json
 npm install
 composer install
-vendor/bin/dcr/install
+vendor/bin/dcr install
 grunt
 ````
 
