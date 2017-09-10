@@ -84,6 +84,7 @@ cp Gruntconfig.d7.json Gruntconfig.json
 To install dependencies and set up the project for development, run the following:
 
 ````
+rm composer.d*.json Gruntconfig.d*.json
 npm install
 composer install
 vendor/bin/dcr/install
