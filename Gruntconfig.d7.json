@@ -1,5 +1,5 @@
 {
   "srcPaths": {
-    "make": "src/build/drupal.make.yml",
+    "make": "src/build/drupal.make.yml"
   }
 }

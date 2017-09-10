@@ -2,7 +2,7 @@
 # grunt-drupal-build unless the following is found in Gruntconfig.json:
 # {
 #   "srcPaths": {
-#     "make": "src/build/drupal.make.yml",
+#     "make": "src/build/drupal.make.yml"
 #   }
 # }
 
