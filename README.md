@@ -85,6 +85,7 @@ To install dependencies and set up the project for development, run the followin
 
 ````
 npm install
+composer install
 vendor/bin/dcr/install
 grunt
 ````
