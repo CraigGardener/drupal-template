@@ -1,4 +1,5 @@
 {
+  "drupalVersion" : "7",
   "srcPaths": {
     "make": "src/build/drupal.make.yml"
   }
