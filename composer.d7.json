@@ -2,7 +2,7 @@
     "name": "project_name",
     "description" : "project_name",
     "require": {
-        "drush/drush": "~8.0",
+        "drush/drush": "~8.0"
     },
     "require-dev": {
         "alexdesignworks/dcr": "^0.3.0",
@@ -10,11 +10,11 @@
         "drupal/coder": "^8.2",
         "drupal/drupal-extension": "~3.0",
         "phpmd/phpmd": "~2.1",
-        "roave/security-advisories": "dev-master",
+        "roave/security-advisories": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "sort-packages": true
-    },
+    }
 }
