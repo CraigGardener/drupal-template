@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "grunt": "^1.0.1",
-    "grunt-drupal-build": "^1.0.1",
+    "grunt-drupal-build": "^2.1.2",
     "jscs": "^3.0.7"
   },
   "devDependencies": {
