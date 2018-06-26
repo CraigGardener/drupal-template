@@ -1,6 +1,8 @@
 Drupal Development Template
 ===========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigGardener/drupal-template.svg)](https://greenkeeper.io/)
+
 ## Overview
 
 This repository contains custom configuration and source code only.
